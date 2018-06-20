@@ -3,7 +3,7 @@ import AppBar from 'material-ui/AppBar';
 
 const NavBar = (props) => {
   return (
-    <AppBar title="PixaBay Image Finder" />
+    <AppBar title="PixaBay Image Searcher" />
   );
 };
 

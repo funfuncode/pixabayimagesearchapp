@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import './App.css';
 import NavBar from './components/navbar/NavBar';
 import Search from './components/search/Search';
 
